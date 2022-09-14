@@ -154,6 +154,9 @@ color: white;
   .flex{
     padding-left: 90px;
   }
+   textarea{
+    columns: 35;
+  }
   
 }
 
